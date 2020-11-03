@@ -1,0 +1,36 @@
+[{
+		"id": "1",
+		"name": "Hong Kong",
+		"description": "A special administrative region on the eastern side of the Pearl River estuary in southern China.",
+		"link": "http://www.discoverhongkong.com/eng/index.jsp",
+		"image": "hongkong.jpg"
+	},
+	{
+		"id": "2",
+		"name": "Macau",
+		"description": "A special administrative region on the western side of the Pearl River estuary in southern China.",
+		"link": "http://en.macaotourism.gov.mo/index.php",
+		"image": "macau.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Thailand",
+		"description": "A country at the centre of the Southeast Asian Indochinese peninsula composed of 76 provinces.",
+		"link": "http://www.tourismthailand.org/",
+		"image": "thailand.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Japan",
+		"description": "An island country in East Asia.",
+		"link": "http://www.jnto.go.jp/eng/",
+		"image": "japan.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Vietnam",
+		"description": "The easternmost country on the Indochina Peninsula.",
+		"link": "http://www.vietnamtourism.gov.vn/english/",
+		"image": "vietnam.jpg"
+	}
+]
